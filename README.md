@@ -19,4 +19,12 @@ challenge day 4/30
 |  |
 | ------- |
 | [0171-excel-sheet-column-number](https://github.com/2703git/Day4/tree/master/0171-excel-sheet-column-number) |
+## Array
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/2703git/Day4/tree/master/0026-remove-duplicates-from-sorted-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/2703git/Day4/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
