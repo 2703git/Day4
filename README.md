@@ -23,8 +23,10 @@ challenge day 4/30
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/2703git/Day4/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/2703git/Day4/tree/master/0027-remove-element) |
 ## Two Pointers
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/2703git/Day4/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/2703git/Day4/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->
